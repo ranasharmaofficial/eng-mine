@@ -1,0 +1,107 @@
+@media (max-width:767px){
+.bottomtap-menu {display: block; width: 100%;}	
+section.block_list.flexed.end.less_margin { display: none;}	
+.bannerText.paragraph { padding: 0;  width: 100%; max-width: 100%; flex: 0 0 100%;}
+.bannerContainer { width: 100%;  padding: 30px; display:block;}
+.hotelservices { margin-top: 30px;}
+.servicespro .headingcenter h2{padding: 0;}	
+.explore .col-sm-4 { max-width: 100%; width: 100%; margin: 10px 0;}
+.twoColumnsec .col-sm-6 { max-width: 100%; margin: 10px 0; width: 100%; overflow: hidden;}
+.sidebarNavigation { display: none !important;}
+.tabrowwClm { max-width: 100%; width: 100%; margin: 0}
+.tabroww { display: block; width: 100%;}
+footer.sitemapfooter .columns.columnsLeft { width: 100%; max-width: 100%;}
+.columns.columnsRight {  width: 100%;  max-width: 100%; flex: 100%;}
+.col_4.footer-posi1.footer-posi-1 { width: 100%;  max-width: 100%; flex: 100%;}
+.col_4.footer-posi1.footer-posi-2 { width: 100%; max-width: 100%; flex: 100%;}
+.col_4.footer-posi1.footer-posi-3 { width: 100%; max-width: 100%;  flex: 100%;}
+.site-footer__cta h4 { padding: 0 !important;}
+.site-footer__cta-button.btn a.site-btn { display: block; margin-bottom: 20px;}
+section.sldierAnimate { display: none;}
+.section_viewport .block_container { display: block; width: 100%; max-width: 100%;}
+.headingsection { padding: 0 20px 30px;}
+.tabrowwClm.tabrowwClm2, .tabrowwClm.tabrowwClm4 { top: 30px;}
+.tabrowwClm.tabrowwClm3 {  top: 60px;}
+.tabrowwClm4 { top: 90px !important;}
+.tabrowwClm5 {top: 120px;}
+.servicespro { padding: 60px 0 170px;}
+.headingsection.headingsection5 br { display: none;}
+.headingsection5 h3 {font-size: 40px; text-transform: capitalize; margin: 0;}
+.hoteltypesServices { position: inherit; margin-top: 20px;}
+.log-bg { display: none;}
+.tabslider-top-menu { display: none;}
+.sliderimages img { width: 100%;  height: 630px !important; object-fit: cover;}
+.sld-slide .container { left: calc(100% - 350px);}
+.header_mob { margin-top: 12px;}
+.header_mob a.mobile_menu { display: block;  width: 40px; height: 30px;}
+.header_mob a.mobile_menu span { width: 32px; height: 3px; background: #fff; display: block; margin-bottom: 5px; border-radius: 0; float: right; transition: all .5s;}
+.header_mob { position: absolute; right: 25px; top: 10px; z-index: 9;}
+.contact-full {display: block; width: 100%;}
+.con_form { width: 100%; padding: 40px 30px;}
+.con-img { display: none;}
+section.grnad .owl-nav { display: none;}
+.mid-content {margin-top: 30px;}
+.mid-img { margin-top: 30px;}
+div#overview { margin-top: 0 !important;}
+.mid-content { margin-right: 0;}
+ul.hotel-tag-list { margin: 0; padding: 0;}
+ul.hotel-tag-list li.hotel-tag { margin: 7px 0;}
+.hot_ol .item img { width: 100%; height: 300px;  object-fit: cover;}
+.right-column { margin-bottom: 30px;}
+.hotel-form form { display: block;}
+.hotel_heads h1{font-size: 26px;}
+section.contact-banner.abt-banner{padding-top: 60px !important;}
+.form-group.chil-btn span { margin: 0 4px;}
+.better h2 {font-size: 25px;}
+.best-rt{display:block; max-width: 100%;}
+.ev-banner { display: block; padding: 30px 20px;}
+.unique { width: 100%; text-align: center;}
+.expl { width: 100%; text-align: center;}
+.ev-banner:after{height: 247px;}
+.perks { display: block;}
+.pk-img { width: 100%;}
+.pk-content { width: 100%;}
+.hotel a {display: block;}
+.wait {width:100%; display: block;}
+.wait a {  width: 100%; flex: 0 0 100%; max-width: 100%; display: block; margin: 10px 0;}
+.await h1{padding-top: 10rem;}
+.mx-width { max-width: 100%;}
+.lft-img { width: 100%;}
+.lft-img img {  display: none;}
+.rt-content { position: initial;}
+.hotel { max-width: 70%; margin: 0 auto;}
+.hotel a{padding: 12px 35px;}
+.view-dt button { width: 100%;  margin: 6px 0;}
+.sps{padding: 40px 0;}
+.dining{padding: 40px 2px;}
+}
+
+
+
+
+/* ipad media query start here */
+
+@media (min-width: 768px) and (max-width: 991px) {
+.tabslider-top-menu { display: none;}
+.sld-slide .container { position: absolute; left: calc(100% - 1500px); top: 0; max-width: 1180px;}
+.block.reverse .block_copy{width: 178px; height: 250px;}
+.block_copy { width: 175px; height: 270px;}
+.slider .sliderHeading{padding: 170px 0;}
+.hoteltypesServices { position: static; width: 100%; max-width: 100%; transform: inherit;}
+.slider { height: 530px; }
+.contact-banner{height: 50vh !important;}
+
+}
+
+/* ipad media query end here */
+
+/* ipad pro media query start here */
+@media (min-width: 992px) and (max-width: 1200px) {
+.slider {height: 570px;}	
+.sld-slide .container {left: calc(100% - 960px);}
+section.contact-banner.abt-banner {height: 50vh;}
+.contact-banner{height: 50vh;}
+	
+}
+
+/* ipad pro media query end here */

@@ -1,0 +1,93 @@
+@media all and (max-width: 768px) {
+    .loginpad {
+        padding: 4px 0 !important;
+    }
+    .banner-eng-text {
+        font-size: 3rem !important;
+    }
+    .banner-on-text {
+        font-size: 2rem !important;
+    }
+    .banner-icons {
+        margin: -10% 0 0 -2% !important;
+    }
+    .banner-p-text {
+        font-size: 1rem !important;
+    }
+    #banner-image{
+    height: 650px;
+    }
+    .navbar ul li #buton {
+        display: block !important;
+    }
+}
+@media all and (max-width: 426px) {    
+    .navbar ul li .btn{
+        width: 100%;
+    }
+    .banner-form {
+        margin: 0 11% !important;
+        margin-top: 13% !important;
+    }
+    
+    .banner-eng-text {
+        margin-top: 15% !important;
+    }
+    .banner-icons {
+        display: none;
+    }
+    .banner-icons {
+        display: none;
+    }
+    .banner-form {
+        margin: 0 11% !important;
+        margin-top: 8% !important;
+    }
+    .banner-eng-text {
+        margin-top: 20% !important;
+        font-size: 2.4rem !important;
+    }
+}
+@media all and (max-width: 1024px) {
+    .banner-icons {
+       margin-left: 0.5rem !important;
+    }
+    .navbar ul li span {
+        display: none;  
+    }
+ }
+ @media all and (max-width: 320px) {
+    .banner-eng-text {
+       font-size: 2rem !important;
+    }
+ }
+
+ @media all and (min-width:576px) and (max-width:768px) {
+    .professional-cleaning-main{
+        height: 330px !important;
+    }
+}
+@media all and (min-width:766px) and (max-width:991px){
+    .section-heading-two p{color: black !important;}
+    .section-heading-two h3{color: black !important;}
+    .specify-text{color: black !important;}
+}
+@media all and (max-width:767px){
+    .our-company-img{
+        margin-top: 40px !important;
+    }
+}
+@media all and (max-width:475px) {
+    .total-experts-main h3{
+        font-size: 16px;
+    }
+    .total-experts-main p{
+        font-size: 10px;
+    }
+    .total-client-avatar li{
+        width: 28px;
+    }
+    .total-client-all{
+        margin-left: 20px !important;
+    }
+}
